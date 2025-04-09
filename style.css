@@ -6,7 +6,7 @@
 .container{
     height: 100vh;
     width: 100%;
-background-image: url(vector-glowing-wave-smoke_205544-2505.avif);
+background-image: url(vect.jpg);
     padding: 0 5%;
     position: relative;
     background-position: center;
@@ -73,7 +73,7 @@ nav ul li a{
 
 }
 .arrow{
-    margin-top: 40px;
+    margin-top: 20px;
     display: flex;
 }
 .arrow img{
